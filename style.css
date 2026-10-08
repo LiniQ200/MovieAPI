@@ -1,0 +1,22 @@
+#movie-tabs{
+width: 80%;
+}
+
+#my-content{
+height: 40rem;
+overflow-y: scroll;
+border: 2px solid red;
+}
+
+td > img {
+height: 6rem;
+}
+
+#detailed-view > a > img {
+height: 8rem;
+}
+
+.row > div > img {
+   width: 100%;
+}
+
